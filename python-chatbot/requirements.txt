@@ -1,5 +1,0 @@
-transformers
-torch
-flask
-numpy
-pandas
